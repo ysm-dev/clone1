@@ -1,6 +1,6 @@
 <template>
   <div class="f">
-    <img src="label_number.svg"
+    <img src="label_food.svg"
          class="label">
     <div class="count">
       1,256

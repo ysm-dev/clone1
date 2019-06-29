@@ -1,6 +1,6 @@
 <template>
   <div class="k">
-    <img src="label_advertising.svg" />
+    <img src="label_ad.svg" />
     <div class="button">
       <span>
         visit site
@@ -25,6 +25,7 @@ export default {}
   background-repeat: no-repeat;
   color: white;
 
+  grid-area: k;
   img {
     margin-top: 35px;
   }
